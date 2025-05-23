@@ -1,0 +1,14 @@
+D:\repos\HomeInsurance\HomeInsurance\bin\Debug\net8.0\HomeInsurance.exe
+D:\repos\HomeInsurance\HomeInsurance\bin\Debug\net8.0\HomeInsurance.deps.json
+D:\repos\HomeInsurance\HomeInsurance\bin\Debug\net8.0\HomeInsurance.runtimeconfig.json
+D:\repos\HomeInsurance\HomeInsurance\bin\Debug\net8.0\HomeInsurance.dll
+D:\repos\HomeInsurance\HomeInsurance\bin\Debug\net8.0\HomeInsurance.pdb
+D:\repos\HomeInsurance\HomeInsurance\obj\Debug\net8.0\HomeInsurance.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\HomeInsurance\HomeInsurance\obj\Debug\net8.0\HomeInsurance.AssemblyInfoInputs.cache
+D:\repos\HomeInsurance\HomeInsurance\obj\Debug\net8.0\HomeInsurance.AssemblyInfo.cs
+D:\repos\HomeInsurance\HomeInsurance\obj\Debug\net8.0\HomeInsurance.csproj.CoreCompileInputs.cache
+D:\repos\HomeInsurance\HomeInsurance\obj\Debug\net8.0\HomeInsurance.dll
+D:\repos\HomeInsurance\HomeInsurance\obj\Debug\net8.0\refint\HomeInsurance.dll
+D:\repos\HomeInsurance\HomeInsurance\obj\Debug\net8.0\HomeInsurance.pdb
+D:\repos\HomeInsurance\HomeInsurance\obj\Debug\net8.0\HomeInsurance.genruntimeconfig.cache
+D:\repos\HomeInsurance\HomeInsurance\obj\Debug\net8.0\ref\HomeInsurance.dll
